@@ -1,2 +1,3 @@
 # fauna
-fauna suramericana
+fauna suramericanae
+esta es la fauna de suramerica
